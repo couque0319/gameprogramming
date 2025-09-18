@@ -63,32 +63,3 @@ int dice = rand() % 6 + 1;
 int lotto = rand() % 45 + 1;
 ```
 
-## 🎯 활용 분야
-
-- **텍스트 기반 게임**: 뱀게임, 테트리스, RPG
-- **콘솔 애플리케이션**: 메뉴 기반 프로그램
-- **교육용 프로그램**: C언어 기초 학습
-
-## 📝 참고 자료
-
-- 명품 C언어 프로젝트 (생능출판, 안기수)
-- C언어 표준 라이브러리 문서
-
-## 📂 파일 구조
-
-```
-📦 game-programming-c
- ┣ 📂 examples/
- ┃ ┣ 📄 cursor_control.c
- ┃ ┣ 📄 menu_system.c
- ┃ ┣ 📄 random_numbers.c
- ┃ └ 📄 shape_drawing.c
- ┣ 📄 README.md
- └ 📄 lecture_notes.pdf
-```
-
----
-
-⭐ **이 저장소가 도움이 되었다면 스타를 눌러주세요!**
-
-📧 **문의사항이나 개선 제안은 Issue를 통해 알려주세요.**
